@@ -1,20 +1,14 @@
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=XiaomingX&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
-    <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaomingX&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
-    <p>
-      本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+    <div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
+      <p align="center">
+      <img  src="https://github-readme-stats.vercel.app/api?username=XiaomingX&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaomingX&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
     </p>
-  </div>
-  
-  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
-  </a>
-
+    </div>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
+    </a>
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
-
   <div style="text-align: center;">
     <h2>👋 About Me</h2>
     <p>Hello, I'm XiaomingX, a security engineer who loves exploring new systems and security vulnerabilities.</p>
@@ -25,9 +19,7 @@
     <p>📫 You can reach me via X or follow me on GitHub to stay updated with my latest work.</p>
     <p>🌑 I often code late at night, so I might reply slowly — but I’d love to hear your suggestions in the morning.</p>
   </div>
-
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
-
   <div style="text-align: center;">
     <h2>👋 关于我</h2>
     <p>你好，我是XiaomingX，一名安全工程师，热衷于研究各类新型系统和安全漏洞。</p>
