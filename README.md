@@ -2,7 +2,12 @@
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=XiaomingX&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
     <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaomingX&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
+    <p>
+      本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+    </p>
   </div>
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
