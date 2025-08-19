@@ -1,11 +1,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
     <div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
       <p align="center">
-      <img 
-          src="https://kv-tutorial.lininruc.workers.dev/xiaomingx-count?rand=${new Date().getTime()}" 
-          style="width:0;height:0;visibility:hidden;" 
-          onload="this.src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg=='"
-        >
+      <img  src="https://kv-tutorial.lininruc.workers.dev/xiaomingx-count" />
       <img  src="https://github-readme-stats.vercel.app/api?username=XiaomingX&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
       <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaomingX&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
     </p>
