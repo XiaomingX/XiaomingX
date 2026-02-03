@@ -1,15 +1,25 @@
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-    <div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
-      <p align="center">
-      <img src="https://kv.jobleap4u.com/xiaomingx-count" style="width: 0; height: 0; border: none; display: block;" alt="" />
-      <img  src="https://github-readme-stats.vercel.app/api?username=XiaomingX&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaomingX&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
+
+  <!-- 隐藏计数像素：带页面标识 + 防缓存 -->
+  <img
+    src="https://kv.jobleap4u.com/xiaomingx-count?page=github-profile&ts=1706960400"
+    alt="counter"
+    style="width:1px;height:1px;opacity:0;position:absolute;"
+  />
+
+  <div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=XiaomingX&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaomingX&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
     </p>
-    </div>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
-    </a>
+  </div>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
+  </a>
+
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+
   <div style="text-align: center;">
     <h2>👋 About Me</h2>
     <p>Hello, I'm XiaomingX, a security engineer who loves exploring new systems and security vulnerabilities.</p>
@@ -20,7 +30,9 @@
     <p>📫 You can reach me via X or follow me on GitHub to stay updated with my latest work.</p>
     <p>🌑 I often code late at night, so I might reply slowly — but I’d love to hear your suggestions in the morning.</p>
   </div>
+
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+
   <div style="text-align: center;">
     <h2>👋 关于我</h2>
     <p>你好，我是XiaomingX，一名安全工程师，热衷于研究各类新型系统和安全漏洞。</p>
